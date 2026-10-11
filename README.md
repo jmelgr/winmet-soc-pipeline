@@ -1,5 +1,5 @@
 # Guía de Ejecución - SOC Malware Analysis Pipeline (Big Data)
-
+¡Tienes que modificar las rutas del .env colocando tu user!
 ### 0. Instalar dependencias del sistema (7-zip)
 ```
 sudo apt update && sudo apt install -y p7zip-full
