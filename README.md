@@ -48,9 +48,3 @@ chmod +x run_pipeline.sh
 hdfs dfs -count /user/$(whoami)/winmet_soc/bronze
 hdfs dfs -count /user/$(whoami)/winmet_soc/silver
 ```
-
-### 9. Para probar el modelo
-Debes estar en en la raíz del proyecto.
-```
-spark-submit model/model.py
-```
