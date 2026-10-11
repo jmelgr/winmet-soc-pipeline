@@ -1,0 +1,5 @@
+venv/
+.env
+outputs/*
+!outputs/.gitkeep
+data/raw/WinMET_volume_1.7z
